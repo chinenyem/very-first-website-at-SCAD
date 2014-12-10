@@ -1,5 +1,7 @@
 This is the first website I created before I attended the Iron yard. I was capable to understand HTML5, CSS3, and javascript to edit and add to the template website. I made it reponsive. All images and art (excluding featured artist) were created by me either by painting, creating image in photoshop or indesign. Pretty coooooool!
 
+You can view the website at https://nigeriangirlgraphic.firebaseapp.com/
+
 Shout out to AJ
 n33.co @n33co dribbble.com/n33
 
